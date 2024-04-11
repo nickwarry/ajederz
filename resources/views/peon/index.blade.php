@@ -9,7 +9,7 @@
 @section('content')
     <div class="row">
         <div class="col-6">
-            <table class="table table-bodered table-stiped table-hover">
+            <table class="table table-bordered table-striped table-hover">
                 <thead>
                     <th>N°</th>
                     <th>item</th>

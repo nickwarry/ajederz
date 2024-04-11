@@ -9,7 +9,7 @@
 @section('content')
     <div class="row">
         <div class="col-6">
-            <table class="table table-bodered table-stiped table-hover">
+            <table class="table table-bordered table-striped table-hover">
                 <thead>
                     <th>N°</th>
                     <th>item</th>
@@ -63,7 +63,7 @@ Vulnerabilidad al jaque: No puede moverse a una casilla amenazada</td>
             </table>
         </div>
         <div class="col-6">
-            <img src="{{ asset('imgs/rey png.png')}}">
+            <img src="{{ asset('imgs/rey png.png')}}" width="500">
         </div>
     </div>
     

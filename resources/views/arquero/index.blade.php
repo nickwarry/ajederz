@@ -50,10 +50,7 @@ Vulnerabilidad al jaque: No puede moverse a una casilla amenazada</td>
                     <tr>
                         <td>5</td>
                         <td>como nacio</td>
-                        <td>El rey en el ajedrez nació como una representación 
-                            del liderazgo y la autoridad en el campo de batalla durante 
-                            la evolución del juego a lo largo de la historia. Se convirtió en la 
-                            pieza más importante, simbolizando la necesidad de protección y liderazgo en el juego.</td>
+                        <td>NOCHE</td>
 
  
                         </td>

@@ -33,3 +33,16 @@ Route::get('info/rey',function(){
 Route::get('info/arquero',function(){
     return view("arquero.index");
 });
+
+
+
+
+
+
+
+
+
+
+route::get("mitablero",function(){
+    return view("tablero.index");
+});

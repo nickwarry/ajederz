@@ -367,12 +367,18 @@ return [
         ],
         [
             'text' => 'tablero',
-            'url' => 'info/tablero',
+            'url' => 'mitablero',
             'icon' => 'fa-regular fa-chess-king fa-beat',
             'label' => 10,
             'label_color' => 'success',
         ],
-        
+        [
+            'text' => 'jugar ajedrez',
+            'url' => 'jugar ajedrez',
+            'icon' => '<i class="fa-solid fa-play fa-beat"></i>',
+            'label' => 100,
+            'label_color' => 'success',
+        ],
         
         
         

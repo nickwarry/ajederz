@@ -3,7 +3,7 @@
 @section('title', 'dashboerd')
 
 @section('content_header')
-    <h1>Piezas prinsipales</h1>
+    <h1>Piezas principales</h1>
 @stop
 
 @section('content')

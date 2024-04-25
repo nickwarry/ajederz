@@ -375,11 +375,17 @@ return [
         [
             'text' => 'jugar ajedrez',
             'url' => 'jugar ajedrez',
-            'icon' => '<i class="fa-solid fa-play fa-beat"></i>',
+            'icon' => 'fa-solid fa-play fa-beat',
             'label' => 100,
             'label_color' => 'success',
         ],
-        
+        [
+            'text' => 'Tienda ajederx',
+            'url' => 'Tienda ajederx',
+            'icon' => 'fa-solid fa-shop fa-beat',
+            'label' =>100,
+            'label_color' => 'success',
+        ],
         
         
 

@@ -46,3 +46,7 @@ Route::get('info/arquero',function(){
 route::get("mitablero",function(){
     return view("tablero.index");
 });
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
